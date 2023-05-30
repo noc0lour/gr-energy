@@ -1,0 +1,4 @@
+.conda
+build/
+*.pyc
+docs/doxygen/doxyxml/generated/
